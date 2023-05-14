@@ -9343,23 +9343,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Arlet\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\cory_\\.nuget\\packages\\": {},
+    "F:\\Visual Studio\\Shared Components\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arlet\\Documents\\GitHub\\CST-350-Milestone\\Milestone\\Milestone.csproj",
+      "projectUniqueName": "C:\\Users\\cory_\\Source\\Repos\\CST-3500-Milestone\\Milestone\\Milestone.csproj",
       "projectName": "Milestone",
-      "projectPath": "C:\\Users\\Arlet\\Documents\\GitHub\\CST-350-Milestone\\Milestone\\Milestone.csproj",
-      "packagesPath": "C:\\Users\\Arlet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arlet\\Documents\\GitHub\\CST-350-Milestone\\Milestone\\obj\\",
+      "projectPath": "C:\\Users\\cory_\\Source\\Repos\\CST-3500-Milestone\\Milestone\\Milestone.csproj",
+      "packagesPath": "C:\\Users\\cory_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cory_\\Source\\Repos\\CST-3500-Milestone\\Milestone\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "F:\\Visual Studio\\Shared Components\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Arlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cory_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
